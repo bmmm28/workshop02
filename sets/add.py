@@ -5,6 +5,7 @@ print(thisset)
 
 # Output : {'apple', 'orange', 'cherry', 'banana'}
 
+
 # EX 2
 thisset = {"apple", "banana", "cherry"}
 tropical = {"pineapple", "mango", "papaya"}
