@@ -5,4 +5,5 @@ for fruit in fruits:
         continue
     print(fruit)
 
-    #
+    # apple
+    # cherry

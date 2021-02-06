@@ -5,4 +5,7 @@ for fruits in fruits:
 else:
     print("Finally finished!")
 
-    #
+    # apple
+    # banana
+    # cherry
+    # Finally finished!
