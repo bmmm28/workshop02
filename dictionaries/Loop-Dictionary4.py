@@ -1,0 +1,9 @@
+thisdict = {"brand": "Ford", "model": "Mustang", "year": 1964}
+
+# Ex 4
+for value in thisdict.values():
+    print(value)
+
+# Ford
+# Mustang
+# 1964
